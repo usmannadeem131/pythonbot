@@ -1,0 +1,23 @@
+
+
+unzip the project.zip in your computer  and it will have two directories driver and scripts.
+
+now this script is coded and tested using chrome driver version 120.0.6099.109,
+if your chrome browser is older,
+https://googlechromelabs.github.io/chrome-for-testing/#stable 
+or https://chromedriver.chromium.org/downloads
+site and download one which is compatible with your system annd chrome
+
+to run the script, you must have python installed.
+
+onces you have python and chrome driver
+open the command prompt within the "script" directory and first install selenium using following command.
+
+pip install selenium
+pip install requests
+one it is installed, now you can run the script using following command
+python main.py
+
+
+
+checkout the video tutorial for more detail.
